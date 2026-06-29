@@ -1,2 +1,2 @@
 def hello_func():
-    print("hello")
+    print("hello everyone")
